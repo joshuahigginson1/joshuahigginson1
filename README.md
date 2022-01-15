@@ -2,16 +2,19 @@
 
 - Name: Joshua Higginson
 - Location: Geoflex, currently working remotely. 🌎
-- Pronouns: He/She/They ☿️
+- Pronouns: They/Them ☿️
 - Personality: INTJ 🧙
+- SFIA: Low 4
 - Currently studying: AWS Associate SysOps Administrator Certification. 📜
-- Ask Me About: AWS, Infrastructure as Code, DevOps Technologies, Music Technology. 💬
+- Ask Me About: AWS, Infrastructure as Code, Python, Docker, React Native, DevOps Technologies, and Music Technology. 💬
 
 ## Career
 
 I currently work as a Junior DevOps consultant. I have a passion for public cloud technologies, with specialism in Amazon Web Services.
 
-In my down time, I am in the process of training for my AWS DevOps Certification. 📚
+In my down time, I am in the process of training for my AWS DevOps Certifications. 📚
+
+I am also excited to announce that I will be streaming a number of coding videos and tutorials on twitch.tv - https://www.twitch.tv/lit_snakepit.
 
 ## Work Hours
 
