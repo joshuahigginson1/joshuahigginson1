@@ -4,17 +4,15 @@
 - Location: Geoflex, currently working remotely. 🌎
 - Pronouns: They/Them ☿️
 - Personality: INTJ 🧙
-- SFIA: Low 4
+- SFIA: 4
 - Currently studying: AWS Associate SysOps Administrator Certification. 📜
-- Ask Me About: AWS, Infrastructure as Code, Python, Docker, React Native, DevOps Technologies, and Music Technology. 💬
+- Ask Me About: AWS, Infrastructure as Code, Python, Docker, Kubernetes, OpenShift, ML, React Native, Platform Engineering, and Music Technology. 💬
 
 ## Career
 
-I currently work as a Junior DevOps consultant. I have a passion for public cloud technologies, with specialism in Amazon Web Services.
+I currently work as a Level 4 Platforms Engineer. I have a passion for public cloud technologies, with specialism in multi-account architectural landing zones.
 
 In my down time, I am in the process of training for my AWS DevOps Certifications. 📚
-
-I am also excited to announce that I will be streaming a number of coding videos and tutorials on twitch.tv - https://www.twitch.tv/lit_snakepit.
 
 ## Work Hours
 
@@ -55,7 +53,6 @@ Larger summative feedback will be provided within the context of a sprint retros
 ### Career goals
 
 - AWS DevOps Professional Certification
-- Google Professional Cloud DevOps Engineer Certification
 - Part-time MSc degree by research into spatial audio technologies.
 
 <!--
